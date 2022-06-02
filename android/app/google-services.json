@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3257510314",
+    "project_id": "code-challenge-78354",
+    "storage_bucket": "code-challenge-78354.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3257510314:android:d11a8fcabc4f3077ce23d3",
+        "android_client_info": {
+          "package_name": "com.mx.arturoespinosa.code_challenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3257510314-ul6bk5abi1abeh2jtcr0bnnr79rpfqfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq5v2NuxmqdESbOnD316krhlvBEXmEt1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3257510314-ul6bk5abi1abeh2jtcr0bnnr79rpfqfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
